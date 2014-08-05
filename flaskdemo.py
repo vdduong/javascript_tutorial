@@ -12,3 +12,5 @@ def echo():
  
 if __name__ == '__main__':
     app.run(port=8080, debug=True)
+
+# create a templates folder and add two files to it: index.html and layout.html
